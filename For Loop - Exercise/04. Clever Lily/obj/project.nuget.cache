@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cBSoK7s7gdApr/I0hTGHPKz/VRDwF8fVbmGgZZ2yU/INIDUArp4BNjK6mQmvckT0Fjct83ba0SJeCdbprSzxOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\For Loop - Exercise\\04. Clever Lily\\04. Clever Lily.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

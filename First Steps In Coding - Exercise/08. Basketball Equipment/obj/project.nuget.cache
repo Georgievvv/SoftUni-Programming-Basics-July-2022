@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CvBV5oR884VbC5H5K7jHnNyr68vm3Zn/WeNgtP1HhbpsYR2EbsGRXkr/hSxolpITSIaael3VUlyuq9ytTTys9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\First Steps In Coding - Exercise\\08. Basketball Equipment\\08. Basketball Equipment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

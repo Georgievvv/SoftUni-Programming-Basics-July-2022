@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jZ/LkiyYCSC2kbnQL9XO93OjnmxmiFyCpjHAGpK0Ivaa91hDPIeSL5DfwjIXb609VJruMN0pUAIMO4Nj1/hUAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Conditional Statements Advanced - Exercise\\05. Journey\\05. Journey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

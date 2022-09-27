@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BW30jY2FRISYbnbLUbHSz1iIM2CO7KRDT0BLIi0XzLmL1w1Nhw3zkYhu8f0G6mzFIzZ1sMCZewh10XO17eYs+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Conditional Statements - Exercise\\02. Bonus Score\\02. Bonus Score.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

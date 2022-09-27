@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iviK7HvsCr1iS1XraQ0mTjZHOL9pkpSBYMU7JvqqMRIn7X7uqsJz9pqK709VVc0abrV0ntgOADJUyMxOwfNOdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\While Loop - Lab\\06. Max Number\\06. Max Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

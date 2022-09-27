@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vY7Ss2GJs7cz6ow4Za2l6KBNZ2VQBpXL2jpVGMoESQE5LfBpO99IbpYYBZtXCC+MLHHluhKS1xx5Z9r31QmnNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Conditional Statements - Lab\\03. Even or Odd\\03. Even or Odd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

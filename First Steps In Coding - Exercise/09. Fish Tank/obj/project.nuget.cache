@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lZjP/HxD3eDfFB07PQfX2OPAhXsTv59jxF75PcNFHX6MqHXwtkBIz9XmHbRTyVNN7Ftqmr9cKEHo1Qs56zJXKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\First Steps In Coding - Exercise\\09. Fish Tank\\09. Fish Tank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5h8vkbszy+qttp/l+lLYL0STi+60MfU/2yx8ck1WfHDKYrYUyiDhtmVa3a7SQtxbP8/p26zq1pog+VkTyGh31Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Programming Basics Online Pre - Exam - 13 and 14 August 2022\\04\\04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

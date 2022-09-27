@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGaP2pu6hzE5ZiaLkhJ5jL8dT1eh4jf5qRLhlxMVxqsegPl4oKo4QPSkiWkyteWvnMP/H2yRa9iLHTUH9CG+Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\For Loop - Exercise\\08. Tennis Ranklist\\08. Tennis Ranklist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

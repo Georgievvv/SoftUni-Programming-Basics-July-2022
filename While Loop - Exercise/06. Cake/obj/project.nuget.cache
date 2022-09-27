@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oW1WFFZYo/qu6jL8fLhWKXmw2ZSOqjxXv9pEZRozHXAaSzcnuG9BVIXkhSPLvoNiYPQTU5djrA5ZT3TcMLhQZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\While Loop - Exercise\\06. Cake\\06. Cake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

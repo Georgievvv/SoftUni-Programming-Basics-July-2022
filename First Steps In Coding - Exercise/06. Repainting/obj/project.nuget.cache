@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ksLrfVkIl2bZwS6TdkQCxFh/J9+7hXH59wTKmhBsP7K+eps2MNoh5tsA4t8O3zJK+SPbEKp5rkFL6EIFb9k8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\First Steps In Coding - Exercise\\06. Repainting\\06. Repainting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

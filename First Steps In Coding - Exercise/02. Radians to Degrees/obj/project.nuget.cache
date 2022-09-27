@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WEztus1IRpCQodSkYYb8yvWIovTdDMPeJM36xa+oLYqE7ofNPWluKyKr8VmUA5qpBn5tIaJkaM2kF6b6pW0rDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\First Steps In Coding - Exercise\\02. Radians to Degrees\\02. Radians to Degrees.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

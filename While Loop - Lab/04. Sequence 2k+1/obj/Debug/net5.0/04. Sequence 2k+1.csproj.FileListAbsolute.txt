@@ -1,0 +1,16 @@
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.exe
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.deps.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.runtimeconfig.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.runtimeconfig.dev.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\refint\04. Sequence 2k+1.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.genruntimeconfig.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\ref\04. Sequence 2k+1.dll

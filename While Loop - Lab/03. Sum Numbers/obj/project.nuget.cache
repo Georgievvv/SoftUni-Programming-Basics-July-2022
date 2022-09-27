@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8bp1ZMTdrSpxiDzGwPNFsvErUtogNZ8VDunTcMTvn99KCs7SfLQD9KUwC//7sNTJzCLzmnEUZqJcvfDMsxIH5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\While Loop - Lab\\03. Sum Numbers\\03. Sum Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RK7SXPJaDETr2tf8JmDg7UNakr598Mc9hs1Pq1ZH6U8C4xvyxNKWGX9LNuziUTaWTnUu6sbtnWS02b8sFJYChQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\First Steps In Coding - Exercise\\03. Deposit Calculator\\03. Deposit Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

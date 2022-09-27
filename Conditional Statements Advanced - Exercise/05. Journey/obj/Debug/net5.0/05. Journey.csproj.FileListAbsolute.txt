@@ -1,0 +1,16 @@
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\net5.0\05. Journey.exe
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\net5.0\05. Journey.deps.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\net5.0\05. Journey.runtimeconfig.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\net5.0\05. Journey.runtimeconfig.dev.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\net5.0\05. Journey.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\net5.0\05. Journey.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net5.0\05. Journey.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net5.0\05. Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net5.0\05. Journey.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net5.0\05. Journey.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net5.0\05. Journey.csproj.CoreCompileInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net5.0\05. Journey.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net5.0\refint\05. Journey.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net5.0\05. Journey.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net5.0\05. Journey.genruntimeconfig.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net5.0\ref\05. Journey.dll

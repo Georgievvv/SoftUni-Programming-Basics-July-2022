@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EUfYsHuRpPDzVfcTLfH9X9PFEFv08qM/oYRYKWPY5aqXrPOgvGMv2t/HAHwMtqa1bYG9lNefpjM8QZL93pxCgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\While Loop - Exercise\\04. Walking\\04. Walking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

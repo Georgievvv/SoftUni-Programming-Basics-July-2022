@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gV5lEi565eL0hLTJv6p27wDDz6BOmNxh9GbTBYSkjbjFJ2YjglortrrVzELHCDMvgrvJyY5X0Hw37IHQ3PO9SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\While Loop - Exercise\\05. Coins\\05. Coins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

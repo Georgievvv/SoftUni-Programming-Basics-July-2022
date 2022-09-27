@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bffojCPkXKM9jPe4D47LM0FCpOUVHZvQAGXwfPFrQY7vKS48GPk6IaAK0dgn8XnnftmGCEHNJ+1OOXC5vhc1Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\While Loop - Exercise\\01. Old Books\\01. Old Books.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

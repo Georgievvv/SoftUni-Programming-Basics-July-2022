@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Al6FINf7ofyq2ibrblJ1osFaIPI8rjMZyCI5JjcAar+HDadIRMVu0fPCgSxiBR9uXhME7D9PrO4lmEUaV4BGNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Conditional Statements - Exercise\\07. Shopping\\07. Shopping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

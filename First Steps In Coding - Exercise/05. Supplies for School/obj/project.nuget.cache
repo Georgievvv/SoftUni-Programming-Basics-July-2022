@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2psgT//tCXKLSpvjrCYE6zUvRUtaJDU/O35g7oH3iWP5Rs7IfCH299CPJCjuMD/pl4qOMLCRD1Ytiq+Q9wK+1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\First Steps In Coding - Exercise\\05. Supplies for School\\05. Supplies for School.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

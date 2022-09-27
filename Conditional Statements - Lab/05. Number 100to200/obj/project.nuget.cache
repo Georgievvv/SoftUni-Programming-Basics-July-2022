@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RxuL/ZpAKRALPkhzwmvMcsvrmkJ1EZVDKyK+9tRLtXSCcYwsvqlW25ULzA7tPpFkNTlb9eQWL0vgqJcUAf0lWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Conditional Statements - Lab\\05. Number 100to200\\05. Number 100to200.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

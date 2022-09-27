@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hgmg6BYRm8ETq0ZUiXnk5MoVipFwr1ZxjUA7xVDXV6QYulPDMLXjQeOZp0UJv7qgHLmI7kQSabaw8a7M8F/Yzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Conditional Statements - Lab\\02. Greater Number\\02. Greater Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

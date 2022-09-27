@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SCNj8kUaZj6cCV/rF55/998RhEY2NB5/tz6dBmngBMrCGMPlsdoAWqziVqIYkiVHoCkPB8/e9RTKBVFZMnqxOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\First Steps In Coding - Lab\\07. Projects Creation\\07. Projects Creation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KDh4eZpmC1Qs805Sdm7IQcVcJipNDxYBXfxbj29loPalA7TsSK6KFdDxmXQAmCWf0M079IBzR/Vi4YgIL3Z0pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Nested Loops - Lab\\02. Multiplication Table\\02. Multiplication Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

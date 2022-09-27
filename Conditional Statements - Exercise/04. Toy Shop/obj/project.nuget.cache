@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uvyd/avfT11gwBrONz1cylJZJ+OrxQu4iVYsGEneAIZIFz+V8DvNtryN94WJrMX0iBww4cYZOJymahP1bdGg0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Conditional Statements - Exercise\\04. Toy Shop\\04. Toy Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

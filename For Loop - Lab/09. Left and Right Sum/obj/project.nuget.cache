@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eZtIUYssQskgIQOgE1qTM2nPGD0v6KwcYbV02bM54/b13vQV9mgKeD+DqVLGbhEmzutSPnIzstN2WDjREhf2tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\For Loop - Lab\\09. Left and Right Sum\\09. Left and Right Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

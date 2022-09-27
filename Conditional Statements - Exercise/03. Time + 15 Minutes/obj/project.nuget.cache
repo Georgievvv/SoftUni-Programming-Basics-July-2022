@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FeYigXLrfup/3RFp7swdE7WQAsXZxj3+dlFXBaLBuyVTnrXE0AU4qGomYLNyu28vuzALlgJMOABwhHr816WwCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Conditional Statements - Exercise\\03. Time + 15 Minutes\\03. Time + 15 Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

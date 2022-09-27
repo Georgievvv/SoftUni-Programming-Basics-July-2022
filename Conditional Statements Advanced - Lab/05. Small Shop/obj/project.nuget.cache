@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEgeIJnemedssFV2q5k9GQa+FB1GISQtMIHuvlezalj9Snv4NAQnvKd5+RM/f1u6Fa+lPTht+lrhvM1SPrPAYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Conditional Statements Advanced - Lab\\05. Small Shop\\05. Small Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

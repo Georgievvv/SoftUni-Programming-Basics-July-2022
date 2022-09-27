@@ -1,0 +1,16 @@
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.exe
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.deps.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.runtimeconfig.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.runtimeconfig.dev.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\refint\01. Cinema.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.genruntimeconfig.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\ref\01. Cinema.dll

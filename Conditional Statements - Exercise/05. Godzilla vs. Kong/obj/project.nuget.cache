@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LtN5/F9G2DaZ/wksdieonvL/fqQzC9ayk+fpst1i1yX66dq0ecvn2NVURootFuvVcWyCLu4uuxO4ZdYi40s/WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Conditional Statements - Exercise\\05. Godzilla vs. Kong\\05. Godzilla vs. Kong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

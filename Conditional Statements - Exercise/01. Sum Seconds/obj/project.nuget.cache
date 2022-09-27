@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8xuw9U6sT6oVeL2KC+n7Iip4YRUxJ43cztbP2M+bxV1qpEJJB9p1SraMbeUEUnMWNnPc1VxsaXu4qNscUaujsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Conditional Statements - Exercise\\01. Sum Seconds\\01. Sum Seconds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

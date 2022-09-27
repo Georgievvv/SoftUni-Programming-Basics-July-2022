@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T1nDKXwaueHMywA8c6wcPONM67YOwDJ+6MAnFmNXyDpKEsE8zYsX27nqz4Rsi6xYEE9gMfDpHbzrpsadIXN70w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\First Steps In Coding - Exercise\\07. Food Delivery\\07. Food Delivery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

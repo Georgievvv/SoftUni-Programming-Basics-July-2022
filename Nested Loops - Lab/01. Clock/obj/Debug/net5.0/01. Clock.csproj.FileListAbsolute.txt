@@ -1,0 +1,16 @@
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.exe
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.deps.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.runtimeconfig.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.runtimeconfig.dev.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.csproj.CoreCompileInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\refint\01. Clock.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.genruntimeconfig.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\ref\01. Clock.dll

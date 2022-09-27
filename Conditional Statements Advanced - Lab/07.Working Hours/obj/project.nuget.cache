@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3oTRxMSGKQaCRMMGAA5AO9HD6eH/T4Y72kvcImOj63dVnRaoD/wNzsNvThVZvhyhRPC/4Zdr6fnhDWaO06wKBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Conditional Statements Advanced - Lab\\07.Working Hours\\07.Working Hours.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Iinixo+LIvxdPSjVuTzFgUJStg+Iq34d62X+OSqW38Z6wlqT9yGwvBOPqRpJfYNxGUNW6CP9Ga0JHGyKx8XQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\While Loop - Exercise\\03. Vacation\\03. Vacation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

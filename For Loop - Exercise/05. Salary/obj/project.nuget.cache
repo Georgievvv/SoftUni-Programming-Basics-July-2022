@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T+a1s8ml1j1uK4UgnexQChqPoHoqm0DzqPzoKTxO9AGs/5SfmGd8hVkqD8wb/1yv70MJTb4ULt+ZVgp+C0pl7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\For Loop - Exercise\\05. Salary\\05. Salary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

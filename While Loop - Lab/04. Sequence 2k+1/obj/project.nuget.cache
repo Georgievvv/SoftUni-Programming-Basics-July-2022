@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M89Sv0NU90DFiWnAIMFek6N8DJF3axsKmHYiJ6gzbKz1txTuKlIAseYrsPjTlYT4eM2PYdlhn+p8tuvSjXpuVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\While Loop - Lab\\04. Sequence 2k+1\\04. Sequence 2k+1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

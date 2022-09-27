@@ -1,0 +1,16 @@
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net5.0\05. Greeting by Name.exe
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net5.0\05. Greeting by Name.deps.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net5.0\05. Greeting by Name.runtimeconfig.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net5.0\05. Greeting by Name.runtimeconfig.dev.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net5.0\05. Greeting by Name.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net5.0\05. Greeting by Name.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net5.0\05. Greeting by Name.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net5.0\05. Greeting by Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net5.0\05. Greeting by Name.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net5.0\05. Greeting by Name.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net5.0\05. Greeting by Name.csproj.CoreCompileInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net5.0\05. Greeting by Name.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net5.0\refint\05. Greeting by Name.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net5.0\05. Greeting by Name.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net5.0\05. Greeting by Name.genruntimeconfig.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net5.0\ref\05. Greeting by Name.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SqbVlFLcPXomzqZTUtyVpGIZ4f997+YuyOW4ChOZsnl/FWEmeypMDgmnvkySN4VV5Ng/qibEkRdcIrSG6FZ2Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\First Steps In Coding - Lab\\09. Yard Greening\\09. Yard Greening.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

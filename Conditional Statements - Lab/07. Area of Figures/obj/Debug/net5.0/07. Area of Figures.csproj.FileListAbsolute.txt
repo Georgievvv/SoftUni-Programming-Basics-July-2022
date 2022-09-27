@@ -1,0 +1,5 @@
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net5.0\07. Area of Figures.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net5.0\07. Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net5.0\07. Area of Figures.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net5.0\07. Area of Figures.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements - Lab\07. Area of Figures\obj\Debug\net5.0\07. Area of Figures.csproj.CoreCompileInputs.cache

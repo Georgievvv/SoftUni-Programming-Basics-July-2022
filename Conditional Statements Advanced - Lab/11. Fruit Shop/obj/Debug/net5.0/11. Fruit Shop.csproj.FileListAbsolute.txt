@@ -1,0 +1,16 @@
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net5.0\11. Fruit Shop.exe
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net5.0\11. Fruit Shop.deps.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net5.0\11. Fruit Shop.runtimeconfig.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net5.0\11. Fruit Shop.runtimeconfig.dev.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net5.0\11. Fruit Shop.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net5.0\11. Fruit Shop.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\refint\11. Fruit Shop.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.genruntimeconfig.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\ref\11. Fruit Shop.dll

@@ -1,0 +1,16 @@
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\bin\Debug\net5.0\02. Numbers N To 1.exe
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\bin\Debug\net5.0\02. Numbers N To 1.deps.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\bin\Debug\net5.0\02. Numbers N To 1.runtimeconfig.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\bin\Debug\net5.0\02. Numbers N To 1.runtimeconfig.dev.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\bin\Debug\net5.0\02. Numbers N To 1.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\bin\Debug\net5.0\02. Numbers N To 1.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\obj\Debug\net5.0\02. Numbers N To 1.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\obj\Debug\net5.0\02. Numbers N To 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\obj\Debug\net5.0\02. Numbers N To 1.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\obj\Debug\net5.0\02. Numbers N To 1.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\obj\Debug\net5.0\02. Numbers N To 1.csproj.CoreCompileInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\obj\Debug\net5.0\02. Numbers N To 1.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\obj\Debug\net5.0\refint\02. Numbers N To 1.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\obj\Debug\net5.0\02. Numbers N To 1.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\obj\Debug\net5.0\02. Numbers N To 1.genruntimeconfig.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\For Loop - Lab\02. Numbers N To 1\obj\Debug\net5.0\ref\02. Numbers N To 1.dll

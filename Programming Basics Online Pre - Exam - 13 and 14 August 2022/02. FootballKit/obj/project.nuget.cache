@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZiQe7OoYP1IKJXWmpT49xhGvmuh4iKhXbzK+GnWFzDZa/pxi14AYO0p3WBRXf8NPgIXU/LWL1vUuS/ZL+le1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Programming Basics Online Pre - Exam - 13 and 14 August 2022\\02. FootballKit\\02. FootballKit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

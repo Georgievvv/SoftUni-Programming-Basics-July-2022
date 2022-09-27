@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZEToYgly2ezniOXFA0uuCSb7PziHyGJxRMu4rGuQtGoEOuna1kVPtfx0gX6y6XCapZ1DgKhJZQuMee1DCVfMBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Nested Loops - Lab\\04. Sum of Two Numbers\\04. Sum of Two Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

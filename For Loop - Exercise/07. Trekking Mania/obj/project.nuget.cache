@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LM7bjagTI11qWRK/0UfnRE25PfMS0nZhDjWxZrf8FNp4e32ckUY1m4oWwkkxdjQVNoesKfRuI/ucos1UroDIKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\For Loop - Exercise\\07. Trekking Mania\\07. Trekking Mania.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

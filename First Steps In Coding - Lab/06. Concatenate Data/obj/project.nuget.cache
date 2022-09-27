@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LB5KUlwYm1Rr7LeOBuGzczHDcPXCh+hvT4bo5U2sX14cMxtcimOvUZA3PX91vcEO3eSAXUtkgvdZRQ8GnYi7BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\First Steps In Coding - Lab\\06. Concatenate Data\\06. Concatenate Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

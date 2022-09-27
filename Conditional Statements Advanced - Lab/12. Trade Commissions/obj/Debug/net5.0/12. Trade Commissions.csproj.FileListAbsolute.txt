@@ -1,0 +1,16 @@
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.exe
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.deps.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.runtimeconfig.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.runtimeconfig.dev.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\refint\12. Trade Commissions.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.genruntimeconfig.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\ref\12. Trade Commissions.dll

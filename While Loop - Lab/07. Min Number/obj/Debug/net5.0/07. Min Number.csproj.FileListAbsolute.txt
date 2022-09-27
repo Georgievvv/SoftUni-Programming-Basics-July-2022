@@ -1,0 +1,16 @@
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\bin\Debug\net5.0\07. Min Number.exe
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\bin\Debug\net5.0\07. Min Number.deps.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\bin\Debug\net5.0\07. Min Number.runtimeconfig.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\bin\Debug\net5.0\07. Min Number.runtimeconfig.dev.json
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\bin\Debug\net5.0\07. Min Number.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\bin\Debug\net5.0\07. Min Number.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\obj\Debug\net5.0\07. Min Number.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\obj\Debug\net5.0\07. Min Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\obj\Debug\net5.0\07. Min Number.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\obj\Debug\net5.0\07. Min Number.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\obj\Debug\net5.0\07. Min Number.csproj.CoreCompileInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\obj\Debug\net5.0\07. Min Number.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\obj\Debug\net5.0\refint\07. Min Number.dll
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\obj\Debug\net5.0\07. Min Number.pdb
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\obj\Debug\net5.0\07. Min Number.genruntimeconfig.cache
+C:\Users\Sweex\Desktop\SoftUni\Entry Module\While Loop - Lab\07. Min Number\obj\Debug\net5.0\ref\07. Min Number.dll

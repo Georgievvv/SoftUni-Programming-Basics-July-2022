@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mhE/pPYoYpWcqUz6b305eypCak97p/OasldF0PWnw62AakiinitVFnlW9POCoh8FWis5+Q2Fb/mRC47uUU9e+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\First Steps In Coding - Exercise\\01. USD to BGN\\01. USD to BGN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

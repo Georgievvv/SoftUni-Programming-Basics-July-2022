@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sHK3O/G+fQQFaM4VtF2FhpWNWBFSw6OO6OBtlGPU1J4uDG1gKMGqCd0/H7qoWZtHfayCYmKdQFz+dICexfEJmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\For Loop - Exercise\\03. Histogram\\03. Histogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+N+Ar31l/gImhUM88sObg8OLUuFM7BzH5a95K50GLv2cf9DpZuY02EsA4/dyMSl0JcCJQJ26e0RpS2m2qYZTJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Entry Module\\Nested Loops - Lab\\03. Combinations\\03. Combinations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
